@@ -15,7 +15,7 @@ Output Description:
 
 Print the first least occurred element and the frequency of the first least occurred element in the String with a space
 
-Hint:
+Hints:
 
 Find the frequency of every character and print the required output
 
