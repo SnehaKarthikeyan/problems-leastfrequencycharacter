@@ -2,8 +2,7 @@
 
 Question:
 
-Nandhini was given a task, she had no idea to proceed and so help her to complete the task. The task is as follows: You are given a string s, develop a program to print the first
-least occurred element and the frequency of the first least occurred element in the String. 
+Nandhini was given a task, she had no idea to proceed and so help her to complete the task. The task is as follows: You are given a string s, develop a program to print the first least occurred element and the frequency of the first least occurred element in the String. 
 Note: Ignore Sapce in the String
 
 Input Description:
